@@ -1,0 +1,26 @@
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.ul{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 20px;
+}
+.affiche{
+   width: 1250px;
+}
+.ul1{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+    
+}
+.équipe{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
